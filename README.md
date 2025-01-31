@@ -1,4 +1,3 @@
-```markdown
 # FAQ Management System with Multilingual Support
 
 ## Overview
