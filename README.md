@@ -206,7 +206,6 @@ Feel free to fork the repository, make changes, and create a pull request. Pleas
 - [Google Translate API](https://cloud.google.com/translate)
 - [Redis](https://redis.io/)
 
-```
 ### Instructions for Customizing
 
 - Replace `<your-google-translate-api-key>` with your actual Google Translate API key.
